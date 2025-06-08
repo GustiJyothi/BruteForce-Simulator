@@ -22,13 +22,13 @@ Simulasi realistis untuk mempelajari dan menguji keamanan sistem login terhadap 
 
 1. **Clone repository ini:**
    ```bash
-   git clone https://github.com/username/brute-force-login-simulator.git
-   cd brute-force-login-simulator
+   git clone https://github.com/GustiJyothi/BruteForce-Simulator.git
+   cd BruteForce-Simulator
    ```
 
 2. **Jalankan script:**
    ```bash
-   python3 bruteforce_sim.py
+   python login_simulator.py 
    ```
 
    > ✅ Pastikan Python 3 sudah terinstal. Script ini tidak membutuhkan dependensi eksternal apa pun.
